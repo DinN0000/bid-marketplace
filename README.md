@@ -11,6 +11,16 @@ Claude Code에서 아래 명령어를 실행하세요:
 /plugin install bid
 ```
 
+## 설치 오류 시
+
+`Permission denied (publickey)` 에러가 났다면, 터미널에서 아래 명령어로 실패한 캐시를 삭제한 뒤 다시 설치하세요:
+
+```bash
+rm -rf ~/.claude-256/plugins/marketplaces/DinN0000-bid-marketplace
+```
+
+그런 다음 Claude Code에서 위 설치 명령어를 다시 실행하면 됩니다.
+
 ## 포함된 플러그인
 
 ### bid (BidKit)
