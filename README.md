@@ -39,14 +39,13 @@ rm -rf ~/.claude-256/plugins/marketplaces/DinN0000-bid-marketplace
 |---------|---------|
 | `/bid:design` | 전략 수립 + 목차 생성 |
 | `/bid:write <section>` | 섹션 작성/수정 |
-| `/bid:diagnose` | 전체 품질 진단 |
-| `/bid:verify` | 교차 검증 |
+| `/bid:diagnose` | 품질 진단 + 교차 검증 |
 | `/bid:status` | 진행 현황 |
 | `/bid:setup` | 환경 점검 |
 
 자연어도 됩니다: "RFP 받았는데 제안서 만들어야 해"
 
-**소스:** [DinN0000/Harness](https://github.com/DinN0000/Harness)
+**소스:** [DinN0000/bidkit](https://github.com/DinN0000/bidkit)
 
 ## License
 

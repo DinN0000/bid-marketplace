@@ -15,15 +15,15 @@
       "description": "BidKit — AI 에이전트 팀이 함께 쓰는 금융 IT 제안서 시스템",
       "source": {
         "source": "url",
-        "url": "https://github.com/DinN0000/Harness.git"
+        "url": "https://github.com/DinN0000/bidkit.git"
       },
       "category": "productivity",
       "author": {
         "name": "hwai",
         "url": "https://github.com/DinN0000"
       },
-      "homepage": "https://github.com/DinN0000/Harness",
-      "repository": "https://github.com/DinN0000/Harness",
+      "homepage": "https://github.com/DinN0000/bidkit",
+      "repository": "https://github.com/DinN0000/bidkit",
       "tags": ["proposal", "rfp", "multi-agent", "korean", "financial-it"],
       "keywords": ["proposal", "writing", "agents", "rfp"]
     }
