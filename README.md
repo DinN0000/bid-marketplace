@@ -7,7 +7,7 @@
 Claude Code에서 아래 명령어를 실행하세요:
 
 ```
-/plugin marketplace add DinN0000/bid-marketplace
+/plugin marketplace add https://github.com/DinN0000/bid-marketplace.git
 /plugin install bid
 ```
 

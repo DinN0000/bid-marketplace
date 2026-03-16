@@ -14,9 +14,8 @@
       "version": "1.0.0",
       "description": "BidKit — AI 에이전트 팀이 함께 쓰는 금융 IT 제안서 시스템",
       "source": {
-        "source": "github",
-        "repo": "DinN0000/Harness",
-        "ref": "main"
+        "source": "url",
+        "url": "https://github.com/DinN0000/Harness.git"
       },
       "category": "productivity",
       "author": {
